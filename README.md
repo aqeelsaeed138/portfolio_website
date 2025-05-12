@@ -1,2 +1,2 @@
 # portfolio_wbsite
-Persinal portfolio webiste having dark mode skills section work section , cntact me and many more
+currently building Personal portfolio website having dark mode skills section, work section , contact me and many more. Currently project is not complete miising animations and some features.
